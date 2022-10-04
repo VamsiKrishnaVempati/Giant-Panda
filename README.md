@@ -2,5 +2,5 @@
 
 The Giant Panda is a bear species found in China. It has a bold black-and-white coat and a plump body. While giant pandas in the wild are capable of eating many things, their diet consists solely of bamboo shoots and leaves. In captivity, however, they will eat honey, eggs, fish, and other items that they may not eat in the wild. The giant panda has served as China's national symbol, even appearing as one of the mascots of the 2008 Olympics.
 
-[Picture of a Giant Panda](https://upload.wikimedia.org/wikipedia/commons/8/8d/Giant_Panda_Eating.jpg)
+![Picture of a Giant Panda](https://upload.wikimedia.org/wikipedia/commons/8/8d/Giant_Panda_Eating.jpg)
 
